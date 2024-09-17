@@ -365,7 +365,7 @@ body {
     z-index: -4;
 }
 
-.line-col.first {
+/* .line-col.first {
     left: 10%;
 }
 
@@ -384,7 +384,7 @@ body {
 
 .line-col.fifth {
     left: 90%;
-}
+} */
 
 
 
@@ -441,7 +441,7 @@ body {
     width: 50%;
     right: 0;
     position: absolute;
-    background: url('../img/bg-hero.png') no-repeat center center;
+    background: url('../img/beautiful-africa-freedom-day-banner-great-design-any-purposes-black-background-template-background-banner-card-poster-heart-symbol-generative-ai.jpg') no-repeat center center;
     background-size: cover;
 }
 
@@ -530,7 +530,7 @@ body {
 }
 
 .toggle-btn::before {
-    content: 'DIGITAL CREATIVE AGENCY';
+    content: 'BRAND COMMUNICATION AGENCY';
     position: absolute;
     width: 180px;
     font-size: 10px;
@@ -1278,6 +1278,6 @@ a.phone {
     height: 80%;
     position: absolute;
     top: 10%;
-    background: url('../img/work-detail/3.jpg') center center no-repeat;
+    background: url('../img/work-detail/31.jpg') center center no-repeat;
     z-index: -4;
 }
