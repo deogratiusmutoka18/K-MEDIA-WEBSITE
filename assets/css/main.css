@@ -204,6 +204,7 @@ h2 {
     font-size: 24px;
     font-weight: 900;
     color: #1e272c;
+    text-transform: uppercase;
 }
 
 h3 {
@@ -226,7 +227,7 @@ h1 span {
 }
 
 .title h2 {
-    font-size: 50px;
+    font-size: 30px;
     font-family: 'Playfair Display', sans-serif;
     font-weight: 800;
     color: #fff;
